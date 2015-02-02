@@ -4,3 +4,5 @@ Und so fort.
 Noch eine Zeile.
 Änderung im Masterbranch.
 Hotfix.
+Änderung im neuen Branch
+
